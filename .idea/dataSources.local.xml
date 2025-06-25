@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="dataSourceStorageLocal" created-in="IU-251.26094.121">
+    <data-source name="user_service_db@localhost" uuid="e4166107-003b-46ef-be74-2817b766a485">
+      <database-info product="" version="" jdbc-version="" driver-name="" driver-version="" dbms="MYSQL" />
+      <schema-mapping />
+    </data-source>
+    <data-source name="Payment_service_db@localhost" uuid="6f065ecd-6b38-465e-a7fb-9da2e8b9562f">
+      <database-info product="" version="" jdbc-version="" driver-name="" driver-version="" dbms="MYSQL" />
+      <schema-mapping />
+    </data-source>
+    <data-source name="Vehicle_service_db@localhost" uuid="8c52f4f3-3303-4381-8036-d6a5e38c3e9b">
+      <database-info product="" version="" jdbc-version="" driver-name="" driver-version="" dbms="MYSQL" />
+      <schema-mapping />
+    </data-source>
+    <data-source name="user_service_db@localhost" uuid="f721c328-949d-48e9-bb44-9513e6048886">
+      <database-info product="" version="" jdbc-version="" driver-name="" driver-version="" dbms="MYSQL" />
+      <schema-mapping />
+    </data-source>
+    <data-source name="Parking_space_service_db@localhost" uuid="728a2dd5-b7ae-45d0-9d77-0cfba58c5fba">
+      <database-info product="" version="" jdbc-version="" driver-name="" driver-version="" dbms="MYSQL" />
+      <schema-mapping />
+    </data-source>
+  </component>
+</project>
